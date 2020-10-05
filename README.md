@@ -1,4 +1,4 @@
-# rpa
+# run-playwright-from-electron-example
 
 ## Project setup
 ```
